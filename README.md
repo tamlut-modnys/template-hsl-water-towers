@@ -22,7 +22,7 @@ Example usage:
 14
 ```
 
-Two winners will be rewarded -- one for fastest solution, and one for best style. For style reference, you can see previous winners and the Hoon style guide:
+Two winners will be rewarded -- one for fastest solution, and one for best style (clear, elegant, well-commented, Hoonish). For style reference, you can see previous winners and the Hoon style guide:
 
 https://developers.urbit.org/blog/hsl-competition 
 
