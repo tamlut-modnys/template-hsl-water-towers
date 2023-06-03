@@ -22,17 +22,12 @@ Example usage:
 14
 ```
 
-Two winners will be rewarded -- one for fastest solution, and one for best style (clear, elegant, well-commented, Hoonish). For style reference, you can see previous winners and the Hoon style guide:
+Two winners will be rewarded -- one for fastest solution, and one for best style (clear, elegant, well-commented, Hoonish). For style reference, you can see [previous winners](https://developers.urbit.org/blog/hsl-competition) and the [Hoon style guide](https://developers.urbit.org/reference/hoon/style):
 
-https://developers.urbit.org/blog/hsl-competition 
 
-https://developers.urbit.org/reference/hoon/style
+For submission, fill out this [google form](https://forms.gle/yuXZwJAz4X13GgmD6) with your information. See instructions to create the repository below. Remember to make your repo private and add tamlut-modnys as a collaborator.
 
-For submission, fill out this google form with your repo: https://forms.gle/yuXZwJAz4X13GgmD6 . See instructions to create the repository below.
-
-Remember to make your repo private and add tamlut-modnys as a collaborator.
-
-This challenge opens at noon EST on June 3, and will close at ~11:55 AM on June 10. Good luck!
+This challenge opens at noon EST on June 3, and will close at ~11:55 AM EST on June 10. Good luck!
 
 
 ## Using this Repository
@@ -49,7 +44,7 @@ If you are working with a fakeship, this is one way to set things up for rapid d
 
 This repo provides test cases you can use to verify that your code submission works correctly.
 
-To run the tests, make sure you have mounted and committed the files into the `base` folder of your fake ship, and then from dojo run
+To run the tests, make sure you have mounted and committed the files into the `base` folder of your fake ship. Then from dojo run
 ```
 -test %/tests/water-towers/hoon
 ```
