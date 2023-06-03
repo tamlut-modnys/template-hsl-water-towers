@@ -1,39 +1,39 @@
 /+  *test
 /=  water-towers  /gen/water-towers
 |%
-++  test-1
+++  test-01
   %+  expect-eq
     !>  `@ud`2
     !>  (water-towers [1 5 3 7 2 ~])
-++  test-2
+++  test-02
   %+  expect-eq
     !>  `@ud`14
     !>  (water-towers [5 3 7 2 6 4 5 9 1 2 ~])
-++  test-3
+++  test-03
   %+  expect-eq
     !>  `@ud`35
     !>  (water-towers [2 6 3 5 2 8 1 4 2 2 5 3 5 7 4 1 ~])
-++  test-4
+++  test-04
   %+  expect-eq
     !>  `@ud`0
     !>  (water-towers [5 5 5 5 ~])
-++  test-5
+++  test-05
   %+  expect-eq
     !>  `@ud`0
     !>  (water-towers [5 6 7 8 ~])
-++  test-6
+++  test-06
   %+  expect-eq
     !>  `@ud`0
     !>  (water-towers [8 7 7 6 5 4 3 2 ~])
-++  test-7
+++  test-07
   %+  expect-eq
     !>  `@ud`0
     !>  (water-towers [0 1 6 7 10 7 6 1 0 ~])
-++  test-8
+++  test-08
   %+  expect-eq
     !>  `@ud`0
     !>  (water-towers [100 0 0 0 0 0 0 0 ~])
-++  test-9
+++  test-09
   %+  expect-eq
     !>  `@ud`7
     !>  (water-towers [100 0 0 0 0 0 0 0 1 ~])
