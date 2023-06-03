@@ -22,7 +22,7 @@ Example usage:
 14
 ```
 
-Two winners will be rewarded -- one for fastest solution, and one for best style (clear, elegant, well-commented, Hoonish). For style reference, you can see [previous winners](https://developers.urbit.org/blog/hsl-competition) and the [Hoon style guide](https://developers.urbit.org/reference/hoon/style):
+Two winners will be rewarded -- one for fastest solution, and one for best style (clear, elegant, well-commented, Hoonish). For style reference, you can see [previous winners](https://developers.urbit.org/blog/hsl-competition) and the [Hoon style guide](https://developers.urbit.org/reference/hoon/style).
 
 
 For submission, fill out this [google form](https://forms.gle/yuXZwJAz4X13GgmD6) with your information. See instructions to create the repository below. Remember to make your repo private and add tamlut-modnys as a collaborator.
